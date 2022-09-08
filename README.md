@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mohamedelbachir
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohamedelbachirboubanganadakou@gmail.com.
 
 <!---
