@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @mohamedelbachir
 - 👀 I’m interested in programming
+- i am computer science student
+- i like to build software and game it's fun
 - 📫 How to reach me mohamedelbachirboubanganadakou@gmail.com.
 
 <!---
