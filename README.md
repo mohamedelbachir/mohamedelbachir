@@ -4,7 +4,7 @@
 
 > i like to build software and game it's fun
 
-> 📫 How to reach me mohamedelbachirboubanganadakou@gmail.com.
+> 📫 How to reach me [[here](mohamedelbachirboubanganadakou@gmail.com)]
 
 [![Daniel's github stats](https://github-stats-me.vercel.app/api?username=mohamedelbachir&show_icons=true&theme=radical)](https://github.com/mohamedelbachir/github-readme-stats)
 [![Top Langs](https://github-stats-me.vercel.app/api/top-langs/?username=mohamedelbachir&layout=compact&theme=github_dark)](https://github.com/mohamedelbachir/github-readme-stats)
