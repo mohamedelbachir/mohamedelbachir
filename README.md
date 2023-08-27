@@ -1,4 +1,4 @@
-👋 Hi, I’m Mohamed El Bachir
+👋 Hi, I’m MOHAMED EL BACHIR
 🇨🇲
 > i am computer science student
 
