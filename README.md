@@ -1,5 +1,5 @@
 👋 Hi, I’m MOHAMED EL BACHIR
-🇨🇲
+🇨🇲 , you can call me Bach
 > i am computer science student
 
 > i like to build software and game it's fun
