@@ -9,7 +9,7 @@
 <!---[![Daniel's github stats](https://github-stats-me.vercel.app/api?username=mohamedelbachir&show_icons=true&theme=radical)](https://github.com/mohamedelbachir/github-readme-stats)--->
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamedelbachir&theme=dark)](https://github.com/mohamedelbachir/scheduler)
 
-[![Top Langs](https://github-stats-me.vercel.app/api/top-langs/?username=mohamedelbachir&layout=compact&theme=github_dark)](https://github.com/mohamedelbachir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelbachir&layout=compact&theme=github_dark)](https://github.com/mohamedelbachir/github-readme-stats)
 ## My skills
 ![My Skills](https://skillicons.dev/icons?i=js,c,cpp,git,github,react,html,css,jquery,py,vercel,sass,vscode,styledcomponents,nodejs&perline=9)
 <!---
