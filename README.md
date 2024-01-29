@@ -4,7 +4,7 @@
 
 > i like to build software and game it's fun
 
-> 📫 How to reach me [[here](<a href="mailto:bachdev237@gmail.com"></a>)]
+> 📫 How to reach me [<a href="mailto:bachdev237@gmail.com">here</a>]
 
 <!---[![Daniel's github stats](https://github-stats-me.vercel.app/api?username=mohamedelbachir&show_icons=true&theme=radical)](https://github.com/mohamedelbachir/github-readme-stats)--->
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamedelbachir&theme=dark)](https://github.com/mohamedelbachir/scheduler)
