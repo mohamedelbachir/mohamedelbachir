@@ -1,10 +1,26 @@
-👋 Hi, I’m MOHAMED EL BACHIR
-🇨🇲 , you can call me Bach
+<p align="left">
+  <samp>
+    <a href="https://bachdev.vercel.app" target='_blank'>landing page</a> .
+        <a href="https://bachdev.vercel.app" target='_blank'>website & portfolio</a> .
+    <a href="https://bachdev.vercel.app/blog" target='_blank'>blog</a> 
+  </samp>
+</p>
+
+<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm MOHAMED EL BACHIR 🇨🇲 , you can call me <i>Bach</i></h1>
+
 > i am computer science student
 
 > i like to build **software** and **game** it's **fun**
 
-> 📫 How to reach me [<a href="mailto:bachdev237@gmail.com">here</a>]
+####  Let's get in touch! Feel free to DM me for discussion!
+
+[![Linkedin Badge](https://img.shields.io/badge/-MOHAMED%20EL%20BACHIR-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-bachir)
+[![Twitter Badge](https://img.shields.io/badge/-@Mohamed_El_BN-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/Mohamed_El_BN)](https://twitter.com/Mohamed_El_BN) 
+[![Mail Badge](https://img.shields.io/badge/-mohamedelbachirboubanganadakou@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamedelbachirboubanganadakou@gmail.com)
+[![](https://img.shields.io/github/followers/mohamedelbachir?label=GitHub%20Followers)](https://github.com/mohamedelbachir)
+<br />
+
+[![](https://komarev.com/ghpvc/?username=mohamedelbachir&color=blue&label=Profile%20Views)](https://github.com/mohamedelbachir)
 
 <!---[![Daniel's github stats](https://github-stats-me.vercel.app/api?username=mohamedelbachir&show_icons=true&theme=radical)](https://github.com/mohamedelbachir/github-readme-stats)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamedelbachir&theme=dark)](https://github.com/mohamedelbachir/scheduler)
