@@ -6,7 +6,7 @@
   </samp>
 </p>
 
-<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm MOHAMED EL BACHIR 🇨🇲 , you can call me <i>Bach</i></h1>
+<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm MOHAMED EL BACHIR <img src='https://github.com/yammadev/flag-icons/blob/master/png/CM@2x.png?raw=true' width='23' height='18'> , you can call me <i>Bach</i></h1>
 
 > i am computer science student
 
