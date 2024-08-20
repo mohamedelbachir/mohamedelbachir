@@ -5,8 +5,9 @@
     <a href="https://bachdev.vercel.app/blog" target='_blank'>blog</a> 
   </samp>
 </p>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2AA1EA&height=125&section=header"/>-->
 
-<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm MOHAMED EL BACHIR <img src='https://github.com/yammadev/flag-icons/blob/master/png/CM@2x.png?raw=true' width='23' height='18'> , you can call me <i>Bach</i></h1>
+<h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm MOHAMED EL BACHIR <img src='https://github.com/yammadev/flag-icons/blob/master/png/CM@2x.png?raw=true' width='23' height='18'> , you can call me <i>Bach</i></h2>
 
 > i am computer science student
 
@@ -20,15 +21,17 @@
 [![](https://img.shields.io/github/followers/mohamedelbachir?label=GitHub%20Followers)](https://github.com/mohamedelbachir)
 <br />
 
-
 <!---[![Daniel's github stats](https://github-stats-me.vercel.app/api?username=mohamedelbachir&show_icons=true&theme=radical)](https://github.com/mohamedelbachir/github-readme-stats)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamedelbachir&theme=dark)](https://github.com/mohamedelbachir/scheduler)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelbachir&layout=compact&theme=github_dark)](https://github.com/mohamedelbachir/github-readme-stats)
 
 [![](https://komarev.com/ghpvc/?username=mohamedelbachir&color=blue&label=Profile%20Views)](https://github.com/mohamedelbachir)
+
 ## My skills
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,js,ts,git,cmake,vite,materialui,markdown,firebase,tailwind,github,react,html,css,jquery,py,vercel,sass,vscode,styledcomponents,nodejs&perline=9)
+
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2AA1EA&height=125&section=footer"/>-->
 <!---
 mohamedelbachir/mohamedelbachir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
