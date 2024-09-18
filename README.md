@@ -1,32 +1,28 @@
 <p align="center">
   <samp>
-    <a href="https://bachdev.vercel.app" target='_blank'>landing page</a> .
         <a href="https://bachdev.vercel.app" target='_blank'>website & portfolio</a> .
     <a href="https://bachdev.vercel.app/blog" target='_blank'>blog</a> 
   </samp>
 </p>
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2AA1EA&height=125&section=header"/>-->
 
-<h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm MOHAMED EL BACHIR <img src='https://github.com/yammadev/flag-icons/blob/master/png/CM@2x.png?raw=true' width='23' height='18'> , you can call me <i>Bach</i></h2>
+<h2 class="flex">Hi, I'm MOHAMED EL BACHIR <img src='https://github.com/yammadev/flag-icons/blob/master/png/CM@2x.png?raw=true' width='23' height='18'></h2>
 
-> i am computer science student
+Just a **C++** developer who knows **CSS**
 
-> i like to build **software** and **game** it's **fun**
-
-####  Let's get in touch! Feel free to DM me for discussion!
-
-[![Linkedin Badge](https://img.shields.io/badge/-MOHAMED%20EL%20BACHIR-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-bachir)
-[![Twitter Badge](https://img.shields.io/badge/-@Mohamed_El_BN-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/Mohamed_El_BN)](https://twitter.com/Mohamed_El_BN) 
-[![Mail Badge](https://img.shields.io/badge/-mohamedelbachirboubanganadakou@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamedelbachirboubanganadakou@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-My%20Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-bachir)
+[![Twitter Badge](https://img.shields.io/badge/-My%20Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/Mohamed_El_BN)](https://twitter.com/Mohamed_El_BN)
+[![Mail Badge](https://img.shields.io/badge/-mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamedelbachirboubanganadakou@gmail.com)
 [![](https://img.shields.io/github/followers/mohamedelbachir?label=GitHub%20Followers)](https://github.com/mohamedelbachir)
 <br />
 
 <!---[![Daniel's github stats](https://github-stats-me.vercel.app/api?username=mohamedelbachir&show_icons=true&theme=radical)](https://github.com/mohamedelbachir/github-readme-stats)-->
 |                             My Github streak                                                                        |                                             Top Langs                                                      |
 | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
-|[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedelbachir&theme=dark)](https://github.com/mohamedelbachir/scheduler) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelbachir&layout=compact&theme=github_dark)](https://github.com/mohamedelbachir/github-readme-stats) |
+|<img src="https://streak-stats.demolab.com?user=mohamedelbachir&theme=dark" width="415px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelbachir&layout=compact&theme=github_dark"/> |
 
-
+<!--[![Top Langs]()](https://github.com/mohamedelbachir/github-readme-stats)-->
+<!--[![GitHub Streak]()](https://github.com/mohamedelbachir/scheduler)-->
 [![](https://komarev.com/ghpvc/?username=mohamedelbachir&color=blue&label=Profile%20Views)](https://github.com/mohamedelbachir)
 
 ## My skills
