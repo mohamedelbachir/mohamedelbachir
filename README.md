@@ -10,12 +10,6 @@
 
 Just a **C++** developer who knows **CSS**
 
-[![Linkedin Badge](https://img.shields.io/badge/-My%20Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-bachir)
-[![Twitter Badge](https://img.shields.io/badge/-My%20Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/Mohamed_El_BN)](https://twitter.com/Mohamed_El_BN)
-[![Mail Badge](https://img.shields.io/badge/-mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamedelbachirboubanganadakou@gmail.com)
-[![](https://img.shields.io/github/followers/mohamedelbachir?label=GitHub%20Followers)](https://github.com/mohamedelbachir)
-<br />
-
 <!---[![Daniel's github stats](https://github-stats-me.vercel.app/api?username=mohamedelbachir&show_icons=true&theme=radical)](https://github.com/mohamedelbachir/github-readme-stats)-->
 |                             My Github streak                                                                        |                                             Top Langs                                                      |
 | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
@@ -24,7 +18,10 @@ Just a **C++** developer who knows **CSS**
 <!--[![Top Langs]()](https://github.com/mohamedelbachir/github-readme-stats)-->
 <!--[![GitHub Streak]()](https://github.com/mohamedelbachir/scheduler)-->
 [![](https://komarev.com/ghpvc/?username=mohamedelbachir&color=blue&label=Profile%20Views)](https://github.com/mohamedelbachir)
-
+[![Linkedin Badge](https://img.shields.io/badge/-My%20Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-bachir)
+[![Twitter Badge](https://img.shields.io/badge/-My%20Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/Mohamed_El_BN)](https://twitter.com/Mohamed_El_BN)
+[![Mail Badge](https://img.shields.io/badge/-mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamedelbachirboubanganadakou@gmail.com)
+[![](https://img.shields.io/github/followers/mohamedelbachir?label=GitHub%20Followers)](https://github.com/mohamedelbachir)
 ## My skills
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,js,ts,astro,git,cmake,vite,materialui,markdown,firebase,tailwind,github,react,html,css,jquery,py,vercel,sass,vscode,styledcomponents,nodejs&perline=15)
 
