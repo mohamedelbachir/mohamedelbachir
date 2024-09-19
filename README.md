@@ -23,7 +23,7 @@ Just a **C++** developer who knows **CSS**
 [![Mail Badge](https://img.shields.io/badge/-mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamedelbachirboubanganadakou@gmail.com)
 [![](https://img.shields.io/github/followers/mohamedelbachir?label=GitHub%20Followers)](https://github.com/mohamedelbachir)
 ## My skills
-![My Skills](https://skillicons.dev/icons?i=cpp,c,js,ts,astro,git,cmake,vite,materialui,markdown,firebase,tailwind,github,react,html,css,jquery,py,vercel,sass,vscode,styledcomponents,nodejs&perline=15)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,js,ts,astro,nextjs,git,cmake,vite,materialui,markdown,firebase,tailwind,github,react,html,css,jquery,py,vercel,sass,vscode,styledcomponents,nodejs&perline=15)
 
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2AA1EA&height=125&section=footer"/>-->
 <!---
