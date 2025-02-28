@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <samp>
         <a href="https://bachdev.vercel.app" target='_blank'>website & portfolio</a> .
     <a href="https://bachdev.vercel.app/blog" target='_blank'>blog</a> 
