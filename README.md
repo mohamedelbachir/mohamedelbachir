@@ -20,8 +20,7 @@
 
 <h2 class="flex">Hi, I'm MOHAMED EL BACHIR <img src='https://github.com/yammadev/flag-icons/blob/master/png/CM@2x.png?raw=true' width='23' height='18'></h2>
 
-Just a **C++** developer who knows **CSS**
-
+a passionate software engineer with a Master’s degree in Computer Science. I am here to showcase my works.
 <!---[![Daniel's github stats](https://github-stats-me.vercel.app/api?username=mohamedelbachir&show_icons=true&theme=radical)](https://github.com/mohamedelbachir/github-readme-stats)-->
 |                             My Github streak                                                                        |                                             Top Langs                                                      |
 | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
